@@ -1,0 +1,57 @@
+{
+	"short_name": "webSCADA",
+	"name": "webSCADA Launcher",
+	"icons": [
+		{
+			"src": "icon512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "icon256.png",
+			"type": "image/png",
+			"sizes": "256x256"
+		},
+		{
+			"src": "icon192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "icon128.png",
+			"type": "image/png",
+			"sizes": "128x128"
+		},
+		{
+			"src": "icon96.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "icon64.png",
+			"type": "image/png",
+			"sizes": "64x64"
+		}
+	],
+	"id": "/?source=pwa",
+	"start_url": "/?source=pwa",
+	"background_color": "#FCFCFA",
+	"display": "standalone",
+	"orientation": "any",
+	"theme_color": "#59A6BA",
+	"description": "webSCADA 7 Process Control System Launcher",
+	"screenshots": [
+		{
+			"src": "screenshot1.png",
+			"type": "image/png",
+			"sizes": "1920x1080",
+			"form_factor": "wide"
+		},
+		{
+			"src": "screenshot2.png",
+			"type": "image/png",
+			"sizes": "1920x1080",
+			"form_factor": "narrow"
+		}
+	]
+}
